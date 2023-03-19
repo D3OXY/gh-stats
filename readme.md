@@ -268,16 +268,16 @@ Copy-paste this code into your readme and change the links.
 Endpoint: `api/pin?username=d3oxy&repo=github-readme-stats`
 
 ```md
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3oxy&repo=github-readme-stats)](https://deoxy.dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3oxy&repo=gh-stats)](https://deoxy.dev)
 ```
 
 ### Demo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3oxy&repo=github-readme-stats)](https://deoxy.dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3oxy&repo=gh-stats)](https://deoxy.dev)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3oxy&repo=github-readme-stats&show_owner=true)](https://deoxy.dev)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=d3oxy&repo=gh-stats&show_owner=true)](https://deoxy.dev)
 
 # Top Languages Card
 
